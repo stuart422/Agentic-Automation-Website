@@ -1,7 +1,4 @@
-# Netlify _redirects — enforce canonical domain and HTTPS
-
-# www → non-www (301 permanent)
-https://www.agentic-go.com/*   https://agentic-go.com/:splat   301!
-
-# HTTP → HTTPS is handled automatically by Netlify
-# No explicit rule needed — Netlify forces HTTPS by default when enabled in site settings
+/assets/index-CxmEB9sZ.js /assets/index-CxmEB9sZ.js 200
+/assets/index-BqCCNwqz.css /assets/index-BqCCNwqz.css 200
+/index.html /index.html 200
+/* /index.html 200
